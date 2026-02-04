@@ -14,7 +14,7 @@ ARQUIVO_SAIDA_TXT = "relatorio_biosseguranca.txt"
 ARQUIVO_SAIDA_CSV = "dados_biosseguranca.csv"
 
 # Número de processadores a utilizar (ajuste conforme seu PC)
-NUM_THREADS = 4 
+NUM_THREADS = 32 
 
 # Tamanho do lote de genes para processar por vez 
 # (Quanto menor, mais atualizações de progresso, mas ligeiramente mais lento)
