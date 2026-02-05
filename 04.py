@@ -7,7 +7,7 @@ import math
 
 # --- 1. CONFIGURAÇÕES GERAIS ---
 # Caminho do arquivo com os genes do fungo
-ARQUIVO_QUERY = "../c_abscissum_data/ncbi_dataset/data/GCA_023376855.1/cds_from_genomic.fna"
+ARQUIVO_QUERY = "c_abscissum_data/ncbi_dataset/data/GCA_023376855.1/cds_from_genomic.fna"
 
 # Nome do arquivo onde o relatório será salvo
 ARQUIVO_SAIDA_TXT = "relatorio_biosseguranca.txt"
